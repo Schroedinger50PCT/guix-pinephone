@@ -16,3 +16,4 @@ gebaut und per Hand auf die zu bootende generation gerichtet werden.
 - [x] Guix offload (auf 2*Odroid N2+)  
 - [ ] guix offload (auf Maschine mit mehr ram)  
 - [ ] uart-debugger kaufen  
+- [ ] english translation
