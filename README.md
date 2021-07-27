@@ -3,8 +3,8 @@
 An diesem Projekt wird nicht aktiv gearbeitet!  
 
 Der "linux" kernel stammt von [nonguix](https://gitlab.com/nonguix/nonguix) und ist NICHT Teil des Guix projektes mit ihm funktionieren (meistens):
-*Bildschirm
-*USB
+* Bildschirm  
+* USB  
 
 Der linux-libre-arm64-generic kernel bootet aber gibt keinen Display output.  
 Meistens funktioniert die usb buchse.
